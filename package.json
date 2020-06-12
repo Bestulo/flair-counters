@@ -1,0 +1,16 @@
+{
+  "name": "flair-stats",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "uno": "echo \"dos"
+  },
+  "author": "Besto",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^7.0.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}

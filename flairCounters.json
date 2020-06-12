@@ -1,0 +1,57 @@
+{
+  ":libright2: - LibRight": {
+    "upvoteAverage": 1096.0665217391304,
+    "downvoteAverage": 45.54217391304348,
+    "ratioAverage": 0.8895652173913043
+  },
+  ":lib: - LibCenter": {
+    "upvoteAverage": 829.7498734177216,
+    "downvoteAverage": 38.13620253164557,
+    "ratioAverage": 0.9062025316455696
+  },
+  ":libright: - LibRight": {
+    "upvoteAverage": 749.7120491803279,
+    "downvoteAverage": 32.6322131147541,
+    "ratioAverage": 0.9128688524590164
+  },
+  ":right: - Right": {
+    "upvoteAverage": 1444.591489361702,
+    "downvoteAverage": 43.280851063829786,
+    "ratioAverage": 0.9391489361702128
+  },
+  ":centrist: - Centrist": {
+    "upvoteAverage": 1891.912911392405,
+    "downvoteAverage": 86.98582278481013,
+    "ratioAverage": 0.9277215189873418
+  },
+  ":left: - Left": {
+    "upvoteAverage": 1039.606923076923,
+    "downvoteAverage": 27.11102564102564,
+    "ratioAverage": 0.916923076923077
+  },
+  ":authright: - AuthRight": {
+    "upvoteAverage": 486.9005970149254,
+    "downvoteAverage": 18.830746268656718,
+    "ratioAverage": 0.895223880597015
+  },
+  ":libleft: - LibLeft": {
+    "upvoteAverage": 390.58845070422535,
+    "downvoteAverage": 10.834084507042254,
+    "ratioAverage": 0.9056338028169014
+  },
+  ":auth: - AuthCenter": {
+    "upvoteAverage": 786.75,
+    "downvoteAverage": 21.30263157894737,
+    "ratioAverage": 0.8913157894736842
+  },
+  ":authleft: - AuthLeft": {
+    "upvoteAverage": 652.4928,
+    "downvoteAverage": 43.7072,
+    "ratioAverage": 0.898
+  },
+  "Unflaired": {
+    "upvoteAverage": 93.46885714285715,
+    "downvoteAverage": 4.788285714285714,
+    "ratioAverage": 0.848
+  }
+}
