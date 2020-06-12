@@ -8,8 +8,6 @@ const { sum, subtract, multiply, bignumber, number } = math
 
 const bn = n => bignumber(n)
 const no = n => number(n)
-const log = v => (console.log(v), v)
-const logno = v => (console.log(no(v)), v)
 
 /* How many pages do you want to analyze? Default: 25 */
 
